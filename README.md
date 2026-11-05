@@ -30,4 +30,4 @@ Construa um aplicativo web moderno, responsivo e minimalista de gestão de finan
    - Botão flutuante de "Adicionar Transação Rápida" com suporte a comandos de voz simulados.
 
 ## 🧠 Reflexão e Aprendizados
-[Cole aqui o texto da reflexão que está na seção 3 acima]
+"Participar deste laboratório foi uma experiência transformadora sobre como o desenvolvimento de software está evoluindo. Utilizar a abordagem de Vibe Coding com o Copilot e o Lovable me permitiu sair da ideia abstrata à implementação de uma interface funcional e bonita em pouquíssimo tempo. Aprendi que o segredo não está em escrever cada linha de código manualmente, mas sim em saber comunicar claramente as regras de negócio, o design e os requisitos através de prompts estruturados (PRDs). A IA atua como um co-piloto extremamente rápido, enquanto o direcionamento estratégico e criativo continua nas mãos do desenvolvedor."
