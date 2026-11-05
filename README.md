@@ -29,10 +29,5 @@ Construa um aplicativo web moderno, responsivo e minimalista de gestão de finan
    - Interface altamente intuitiva, focada em usabilidade mobile-first (funciona perfeitamente em telas de celulares e desktops).
    - Botão flutuante de "Adicionar Transação Rápida" com suporte a comandos de voz simulados.
 
-## 📸 Demonstração
-*(Insira aqui prints da tela do seu app gerado pelo Lovable/Copilot ou um breve GIF demonstrando o funcionamento)*
-- **Dashboard:** `[print_dashboard.png]`
-- **Chat com IA:** `[print_chat.png]`
-
 ## 🧠 Reflexão e Aprendizados
 [Cole aqui o texto da reflexão que está na seção 3 acima]
